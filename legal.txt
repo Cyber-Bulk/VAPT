@@ -1,0 +1,9 @@
+LEGAL DISCLAIMER AND TERMS OF USE
+
+1. This tool is for authorized penetration testing only.
+2. Explicit written permission is required for all testing activities.
+3. Unauthorized use violates computer crime laws in most jurisdictions.
+4. The tool developers accept no liability for misuse.
+5. Usage implies acceptance of these terms and full responsibility.
+
+WARNING: Always obtain proper authorization before scanning any system.
